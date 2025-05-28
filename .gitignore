@@ -1,8 +1,10 @@
 # Gradle
+.gradle/
 My_Restaurant/.gradle/
+My_Restaurant/build/
 
 # IntelliJ project files
-../.idea/
+.idea/
 *.iml
 
 # Maven
